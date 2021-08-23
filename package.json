@@ -1,0 +1,31 @@
+{
+  "name": "insomnia-plugin-cryptojs-aes",
+  "author": "Benjamin LETELLIER <letellier.benjamin@gmail.com>",
+  "version": "1.0.0",
+  "description": "Insomnia template tag for Crypt in AES, see original package https://github.com/brainfoolong/cryptojs-aes-php",
+  "insomnia": {
+    "name": "cryptoJS-AES",
+    "description": "crypt encryption plugin for Insomnia REST Client"
+  },
+  "main": "main.js",
+  "dependencies": {
+    "crypto-js": "^4.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Beninho/insomnia-plugin-cryptojs-aes.git"
+  },
+  "keywords": [
+    "insomnia",
+    "plugin"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Beninho/insomnia-plugin-cryptojs-aes/issues"
+  },
+  "homepage": "https://github.com/Beninho/insomnia-plugin-cryptojs-aes#readme"
+}
